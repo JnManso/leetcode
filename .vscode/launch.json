@@ -6,27 +6,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Solution01",
-            "request": "launch",
-            "mainClass": "Solution01",
-            "projectName": "leetcode_2346f026"
-        },
-        {
-            "type": "java",
-            "name": "Solution88",
-            "request": "launch",
-            "mainClass": "Solution88",
-            "projectName": "leetcode_2346f026"
-        },
-        {
-            "type": "java",
-            "name": "Solution",
-            "request": "launch",
-            "mainClass": "Solution",
-            "projectName": "leetcode_2346f026"
-        },
-        {
-            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

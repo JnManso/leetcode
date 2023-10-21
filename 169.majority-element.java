@@ -43,7 +43,7 @@
 
 import java.util.Arrays;
 
-class Solution {
+class Solution169 {
     public int majorityElement(int[] nums) {
         Arrays.sort(nums);
         return nums[nums.length / 2];
@@ -53,7 +53,7 @@ class Solution {
         int[] nums = new int[] { 2, 2, 1, 1, 1, 2, 2 };
         int expectedOutput = 2;
 
-        var solution = new Solution();
+        var solution = new Solution169();
         int k = solution.majorityElement(nums);
 
         assert k == expectedOutput;
